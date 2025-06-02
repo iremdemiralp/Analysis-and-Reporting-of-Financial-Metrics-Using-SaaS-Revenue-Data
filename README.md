@@ -47,3 +47,4 @@ The Power BI dashboard is designed for interactive analysis and contains the fol
 - **DAX**  
 - **Time Series Analysis**  
 - **Data Modeling**
+> I welcome any feedback. Feel free to reach out if you want to discuss the project or explore collaboration opportunities. 🌱  
